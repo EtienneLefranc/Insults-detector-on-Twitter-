@@ -1,0 +1,14 @@
+.app-header {
+    height:70px;
+    line-height: 70px;
+    border-bottom: thin lightgrey solid;
+    text-align:center;
+    margin-bottom : 250px;
+}
+
+.app-header .app-header--title {
+    font-size: 3vw;
+    color : #0c0092;
+    font-weight: bolder;
+    margin-top: 5px;
+}

@@ -1,0 +1,24 @@
+/* Corps de l'app */
+body {
+    font-family: sans-serif;
+    color : black
+}
+
+
+.app-desc {
+    color: #0c0092;
+    font-size:2vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    margin-left:1vw;
+    font-weight: bold;
+    border-bottom: thin lightgrey solid;
+}
+
+.app-desc--corps{
+    color: black;
+    font-size: 1vw;
+    text-align:justify;
+    margin:1vw;
+    margin-bottom: 3vw;
+}
